@@ -43,10 +43,6 @@ Eric Williams
 * 0.1
     * TBD
 
-## License
-
-(TBD) This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
